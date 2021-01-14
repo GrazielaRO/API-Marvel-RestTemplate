@@ -8,6 +8,6 @@ public class GeneralResponse {
 	private String copyright;
 	private String attributionText;
 	private String attributionHTML;
-	private DataCharacter data;
+	private ComicResponse data;
 
 }

@@ -3,11 +3,10 @@ package br.com.zup.trinlha.apimarvel.model;
 import lombok.Getter;
 
 @Getter
-public class CharacterResponse {
+public class ComicResponse {
 	
 	private Long id;
-	private String name;
-	private String description;
+	private String title;
 	private String resourceUri;
 
 }
